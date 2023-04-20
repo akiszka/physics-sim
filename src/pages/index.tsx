@@ -134,11 +134,11 @@ export default function Home() {
           VX_2 = {rnd(balls[1].vx)}
           <br />
           VY_2 = {rnd(balls[1].vy)}
-          <br />
-          <br />
+          {/* <br /> */}
+          {/* <br />
           P1 = ({rnd(balls[0].x)}, {rnd(balls[0].y)})
           <br />
-          P2 = ({rnd(balls[1].x)}, {rnd(balls[1].y)})
+          P2 = ({rnd(balls[1].x)}, {rnd(balls[1].y)}) */}
         </div>}
       </aside>
       <main
